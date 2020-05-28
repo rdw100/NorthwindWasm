@@ -3,4 +3,4 @@ This ASP.NET Core WebAssembly demonstration project was created using Visual Stu
 
  ## Demo
  The animated gif below demonstrates application execution. 
- ![Application Execution](https://github.com/rdw100/NorthwindWasm/blob/master/NorthwindWasm/NorthwindWasm/wwwroot/img/voLpNXd5BN.gif?raw=true)
+ ![Application Execution](https://github.com/rdw100/NorthwindWasm/blob/master/NorthwindWasm/wwwroot/img/voLpNXd5BN.gif?raw=true)
